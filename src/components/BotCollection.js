@@ -10,7 +10,7 @@ export default function BotCollection({ botCollection, action, removeCard }) {
     <div className="ui four column grid">
       <div className="row">
         {displayBotCards}
-        Your Bot Army is complete. There are no more bots to collect.
+        Your Bot Army is complete.There are no more bots to collect.
       </div>
     </div>
   )

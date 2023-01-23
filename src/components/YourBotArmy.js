@@ -13,6 +13,7 @@ export default function YourBotArmy(props) {
       <div className="ui five column grid">
         <div className="row bot-army-row">
           {displayBots}
+          Your Bot Army
         </div>
       </div>
     </div>

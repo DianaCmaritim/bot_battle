@@ -19,7 +19,7 @@ const BotCard = props => {
   }
 
   function handleDischarge(e) {
-    console.log("Red X Clicked!")
+    console.log("Blue X Clicked!")
     e.stopPropagation()
     removeCard(bot)
   }
