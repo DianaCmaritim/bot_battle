@@ -25,7 +25,7 @@ The app enables the user to;<br>
  ## Running the Application
  The requirements for running this app is a web browser of your choice.
 
- Open the application using the following link []
+ Open the application using the following link [https://bot-battle-eight.vercel.app/]
 
  ## Author
  This project is contributed by DianaCmaritim [https://github.com/DianaCmaritim]
